@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: 💬 Forum
+    url: https://github.com/corenel/yet-another-license-kit/discussions
+    about: Ask general usage questions and discuss with other YALK community members
